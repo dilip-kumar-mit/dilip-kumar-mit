@@ -7,3 +7,9 @@ _I am dilip kumar_
 - 👯 I’m looking to collaborate on open source project
 - 🤔 I’m looking for help with javascript
 - 💬 Ask me about on twitter
+
+### Languages i know
+
+1. Javascript
+1. HTML
+1. CSS
